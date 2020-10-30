@@ -1,0 +1,15 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.xxxx{
+    width: 25%;
+  
+}
+.xxxx img{
+    vertical-align: middle;
+   
+}
+
